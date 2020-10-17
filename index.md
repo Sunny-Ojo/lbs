@@ -115,7 +115,7 @@
 
 </head>
 
-<body class="stretched side-header" data-animation-in="bounce">
+< class="stretched side-header" data-animation-in="bounce">
 
     <!-- Document Wrapper
         ============================================= -->
@@ -1349,7 +1349,6 @@
 
         <!-- #footer end -->
 
-        </div>
         <!-- #wrapper end -->
 
         <!-- Go To Top
@@ -1499,7 +1498,6 @@
         <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0 "></script>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js "></script>
-        <script></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js " integrity="sha512-d8F1J2kyiRowBB/8/pAWsqUl0wSEOkG5KATkVV4slfblq9VRQ6MyDZVxWl2tWd+mPhuCbpTB4M7uU/x9FlgQ9Q==" crossorigin=" anonymous "></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js " integrity="sha512-ZKNVEa7gi0Dz4Rq9jXcySgcPiK+5f01CqW+ZoKLLKr9VMXuCsw3RjWiv8ZpIOa0hxO79np7Ec8DDWALM0bDOaQ==" crossorigin=" anonymous "></script>
 
@@ -1722,9 +1720,7 @@
                 }
             });
         </script>
-</body>
 
-
-</body>
+        </body>
 
 </html>
