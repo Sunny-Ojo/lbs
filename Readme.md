@@ -1,5 +1,5 @@
-## This will help you navigate through this project
-# Below you will find each sections line number
+# This will help you navigate through this project
+## Below you will find each sections line number
 
 1:  Executive Summary = line 266
 
