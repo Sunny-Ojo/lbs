@@ -2683,6 +2683,11 @@ img.lazy:not([src]) {
     border: none;
 }
 
+.add-border {
+    border-left: 8px solid rgb(51, 96, 245);
+    border-top: 4px solid lightblue;
+}
+
 .slider-wrap,
 .flex-control-nav,
 .flex-direction-nav {
@@ -3315,7 +3320,12 @@ html[xmlns] .slider-wrap {
 	Retina Logo
 -----------------------------------------------------------------*/
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and ( min--moz-device-pixel-ratio: 2), only screen and ( -o-min-device-pixel-ratio: 2/1), only screen and ( min-device-pixel-ratio: 2), only screen and ( min-resolution: 192dpi), only screen and ( min-resolution: 2dppx) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and ( min--moz-device-pixel-ratio: 2),
+only screen and ( -o-min-device-pixel-ratio: 2/1),
+only screen and ( min-device-pixel-ratio: 2),
+only screen and ( min-resolution: 192dpi),
+only screen and ( min-resolution: 2dppx) {
     #logo a.standard-logo {
         display: none;
     }
@@ -13766,9 +13776,35 @@ blockquote.float-right {
     font-size: 1.5rem;
 }
 
+.add-shadow {
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 1);
+}
+
+.border {
+    border-radius: 20px!Important;
+}
+
+.percents {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px
+}
+
+.industries-about {
+    font-size: 8px
+}
+
 
 /* News Carousel Overlays
 -----------------------------------------------------------------*/
+
+
+/* .demograph {
+    background: linear-gradient( rgba (0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('icons/image--49.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-
+} */
 
 .news-carousel .rounded-skill {
     position: absolute;
